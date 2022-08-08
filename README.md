@@ -11,7 +11,7 @@
 
 Project developed for pratice. Social tree is a page with links to my social medias.
 
-<img src="img/desktop.png" align="center" width="740px" height="425px"/> <img src="img/mobile.png" align="center" width="225px" height="425px"/>
+<img src="img/desktop.png" align="center" width="720px" height="400px"/> <img src="img/mobile.png" align="center" width="200px" height="400px"/>
 
 ## :hammer: Functionalities
 
