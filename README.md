@@ -4,16 +4,14 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
 </p>
 
-Project developed for the Full-Stack Developer course at Gama Academy. Dindin is a fictional financial education course website.
+Project developed for pratice. Social tree is a page with links to my social medias.
 
-![dindin](img/desktop.png)
+# <img src="img/desktop.png" align="center" width="200px" height="200px"/>
 ![dindin](img/mobile.png)
 
 ## :hammer: Functionalities
 
-- `1`: Page with courses and video lessons
-- `2`: Blog page
-- `3`: Comment session
+- `*`: Page with links to social medias
 
 ## 📁 Project access
 
