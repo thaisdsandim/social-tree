@@ -1,17 +1,21 @@
-# <img align="center" src=""/>
+<img align="center" src="img/avatar.svg" width="150px" height="150px"/>
+
+# Social Tree
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
+<img src="https://img.shields.io/github/languages/count/thaisdsandim/social-tree?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/thaisdsandim/social-tree?style=for-the-badge"/>
+<img src="https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fgithub.com%2Fthaisdsandim%2Fsocial-tree%2Fblob%2Fmain%2Findex.html"/>
 </p>
 
 Project developed for pratice. Social tree is a page with links to my social medias.
 
-# <img src="img/desktop.png" align="center" width="200px" height="200px"/>
-![dindin](img/mobile.png)
+<img src="img/desktop.png" align="center" width="740px" height="425px"/> <img src="img/mobile.png" align="center" width="225px" height="425px"/>
 
 ## :hammer: Functionalities
 
-- `*`: Page with links to social medias
+- Page with links to social medias
 
 ## 📁 Project access
 
