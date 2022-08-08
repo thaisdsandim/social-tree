@@ -1,4 +1,4 @@
-# <img align="center" src="https://user-images.githubusercontent.com/96362469/180333961-bead58cf-0b2f-477b-b5f5-62b059c7db36.png"/>
+# <img align="center" src=""/>
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
@@ -6,7 +6,8 @@
 
 Project developed for the Full-Stack Developer course at Gama Academy. Dindin is a fictional financial education course website.
 
-![dindin](https://user-images.githubusercontent.com/96362469/180334709-1d9f5321-a8b3-451e-8098-9f237295483e.PNG)
+![dindin](img/desktop.png)
+![dindin](img/mobile.png)
 
 ## :hammer: Functionalities
 
@@ -16,7 +17,7 @@ Project developed for the Full-Stack Developer course at Gama Academy. Dindin is
 
 ## 📁 Project access
 
-You can access the page [here](https://thaisdsandim.github.io/dindin-cursos/index.html).
+You can access the page [here](https://thaisdsandim.github.io/social-tree/).
 
 ## ✔️ Tools used
 
