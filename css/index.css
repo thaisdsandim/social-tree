@@ -21,7 +21,7 @@ div{
     margin-bottom: 17px;
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 300;
     font-size: 16px;
     line-height: 24px;
     color: #FF5757;
@@ -43,4 +43,14 @@ a{
     line-height: 24px;
     color: #FF5757;
     text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12Spx;
+    line-height: 24px;
+    color: #FF5757;
 }
