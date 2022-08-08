@@ -1,12 +1,11 @@
 <img align="center" src="img/avatar.svg" width="150px" height="150px"/>
 
-# Social Tree
+# Social Tree - Thaís Sandim
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
 <img src="https://img.shields.io/github/languages/count/thaisdsandim/social-tree?style=for-the-badge"/>
 <img src="https://img.shields.io/github/repo-size/thaisdsandim/social-tree?style=for-the-badge"/>
-<img src="https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fgithub.com%2Fthaisdsandim%2Fsocial-tree%2Fblob%2Fmain%2Findex.html"/>
 </p>
 
 Project developed for pratice. Social tree is a page with links to my social medias.
