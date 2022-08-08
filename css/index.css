@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', normal;
+}
+body{
+    background-color: #121212;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    margin-top: 50px;
+}
+.name{
+    margin-top: 22px;
+    margin-bottom: 17px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5757;
+}
+#whats, #linkedin, #github, #portfolio{
+    text-decoration: none;
+    border-color: #FF5757;
+    background-color: #121212;
+    border-radius: 4px;
+    width: 326px;
+    height: 49px;
+    margin-top: 16px;
+}
+a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5757;
+    text-decoration: none;
+}
