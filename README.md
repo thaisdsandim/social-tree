@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/repo-size/thaisdsandim/social-tree?style=for-the-badge"/>
 </p>
 
-Project developed for pratice. Social tree is a page with links to my social medias.
+> Project developed for pratice. Social tree is a page with links to my social medias.
 
 <img src="img/desktop.png" align="center" width="640px" height="350px"/> <img src="img/mobile.png" align="center" width="180px" height="350px"/>
 
